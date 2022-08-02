@@ -1,0 +1,35 @@
+body{
+	margin: 0px;
+	background-image: url(images/last.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#container{
+	font-family: Roboto Slab, serif;
+	width: 380px;
+	height: 620px;
+	float: left;
+	border: 3px solid red;
+	border-radius: 20px;
+	background-color: white;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+#form{
+	font-size: 20px;
+}
+h2{
+	color: blue;
+	text-align: center;
+}
+#btn{
+	border: 1px solid black;
+	border-radius: 20px;
+	cursor: pointer;
+}
+#btn:hover{
+	font-size: 21px;
+	background-color: lightblue;
+	border: 2px solid red;
+	color: red;
+}
